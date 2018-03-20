@@ -1,0 +1,96 @@
+/* 
+  Localizable.strings
+  Refueling
+
+  Created by Samuel Schepp on 02.08.13.
+  Copyright (c) 2013 Samuel Schepp. All rights reserved.
+*/
+
+"Do you want to import \"import.refueling\"? It will add the cars to the existing database." = "Möchten sie \"import.refueling\" importieren? Die Autos werden an die bestehende Datenbank angehängt.";
+"Yes" = "Ja";
+"No" = "Nein";
+"Error" = "Fehler";
+"An error occurred." = "Ein Fehler ist aufgetreten.";
+"An error occurred: \"import.refueling\" is broken." = "Ein Fehler ist aufgetreten: \"import.refueling\" ist beschädigt.";
+"Add your first car to get started." = "Füge dein erstes Auto hinzu, um loszulegen.";
+"Enter your first fill-up." = "Trage deine erste Füllung ein.";
+"Import cars" = "Autos importieren";
+
+"Edit" = "Bearbeiten";
+"Done" = "Fertig";
+"My cars" = "Meine Autos";
+
+"Add car" = "Hinzufügen";
+"Edit car" = "Bearbeiten";
+"Cancel" = "Abbrechen";
+"Save" = "Speichern";
+"Model" = "Modell";
+"Fuel type" = "Treibstoffart";
+"Please enter a model." = "Bitte geben sie einen Modellnamen ein.";
+"Delete" = "Löschen";
+"Delete car?" = "Auto löschen?";
+"Delete car" = "Auto löschen";
+"Take photo" = "Photo aufnehmen";
+"Photo library" = "Photobibliothek";
+"Remove photo" = "Photo entfernen";
+"Caution! All your data will be lost!" = "Achtung! Alle Daten dieses Autos werden gelöscht!";
+
+"Fill-ups" = "Füllungen";
+"Fill-up" = "Füllung";
+"fill-up" = "Füllung";
+"View statistics" = "Statistik ansehen";
+
+"Add fill-up" = "Hinzufügen";
+"Edit fill-up" = "Bearbeiten";
+
+"Retract keyboard" = "Tastatur einfahren";
+"Previous" = "Zurück";
+"Next" = "Weiter";
+"Odom." = "Tacho";
+"Odometer" = "Tachostand";
+"Amount" = "Menge";
+"Price" = "Preis";
+"Continue row" = "Reihe fortsetzen";
+"New row" = "Neue Reihe";
+"Delete fill-up" = "Füllung löschen";
+"Missed previous fill-up?" = "Vorherige Füllung vergessen?";
+"Partly filled up?" = "Teilbetankung?";
+"This app works best with only few partial fill-ups." = "Diese App funktioniert am besten mit nur wenigen Teilbetankungen.";
+"I missed to enter prev. fill-up" = "Vorherige Füllung vergessen";
+"I partly filled up" = "Teilbetankung";
+"yes" = "ja";
+"no" = "nein";
+
+"day" = "Tag";
+"Price" = "Preis";
+"Full Price" = "Voller Preis";
+"Consumption" = "Verbrauch";
+"Date" = "Datum";
+"Statistics" = "Statistik";
+"Average" = "Durchschnitt";
+"to" = "bis";
+
+"iTunes File Sharing" = "iTunes Dateifreigabe";
+"Import selection" = "Auswahl importieren";
+"Import cars" = "Autos importieren";
+"No backups found." = "Keine Backups gefunden.";
+
+"Open in ..." = "Öffnen in ...";
+"Semicolon-separated" = "Durch Semikolon getrennt";
+
+"rowText" = "Solltest du einmal vergessen haben, deine Tankung einzutragen, wählst du hier \"Neue Reihe\" bei der nächsten Eintragung. Somit kommt es zu keinen Fehlern bei der Berechnung der Statistiken.";
+"OK, got that!" = "OK, das habe ich verstanden.";
+
+// Filter
+"From" = "Von";
+"To" = "Bis";
+"or" = "oder";
+"This Month" = "Dieser Monat";
+"Last Month" = "Letzer Monat";
+"This Year" = "Dieses Jahr";
+"Last Year" = "Letzes Jahr";
+"Apply" = "Anwenden";
+"Filter by date" = "Nach Datum filtern";
+"No filter" = "Kein Filter";
+"All dates" = "Alle Daten";
+"Custom" = "Zeitraum";

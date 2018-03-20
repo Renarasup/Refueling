@@ -1,0 +1,13 @@
+/* 
+  Root.strings
+  Refueling
+
+  Created by Samuel Schepp on 03.08.13.
+  Copyright (c) 2013 Samuel Schepp. All rights reserved.
+*/
+
+"Units" = "Einheiten";
+"Distance" = "Distanz";
+"Mile (mi)" = "Meilen (mi)";
+"Amount" = "Menge";
+"Currency" = "Währung";

@@ -1,0 +1,10 @@
+language: objective-c
+osx_image: xcode9.2
+
+install:
+  - brew install xcpretty
+
+script:
+  - xcodebuild -project Refueling.xcodeproj -scheme Refueling -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone X,OS=11.2' | xcpretty && exit ${PIPESTATUS[0]}
+
+
